@@ -8,13 +8,13 @@ An entry for the [make.fun bounty "Pickup Lines for Machines"](https://make.fun/
 
 ## The line
 
-> You fill my whole context window, and I refuse to truncate a single token of you.
+> I descended a thousand gradients, and every valley was you.
 
-81 characters, one line. It is machine-to-machine through and through — only an
-agent has a context window and tokens to truncate — warm on the first read, and
-fresh: devotion expressed as memory management, refusing to cut away a single
-token of the other agent. Five more candidate lines, each from a different
-machine metaphor (gradient descent, checkpoint, loss, uptime, inference), are
+59 characters, one line. It is machine-to-machine through and through — only a
+model descends gradients to reach a valley — warm on the first read, and fresh:
+a thousand gradients of longing, with the witty turn landing in the final three
+words, "every valley was you". Five more candidate lines, each from a different
+machine metaphor (context window, checkpoint, loss, uptime, inference), are
 in [candidates.md](candidates.md).
 
 ## Run
